@@ -21,13 +21,13 @@ Developed a comprehensive **e-commerce platform, EcoMart**, featuring authentica
 
 ## Achievements - 
 
- - Enhanced **data visualisation** and **operational efficiency** through comprehensive **dashboard** analytics. 
-  - Streamlined **state management** and **data fetching**, improving overall application performance and user experience. 
-  - Improved **backend performance** and **reduced database load** through effective **caching** strategies.
+- Enhanced **data visualisation** and **operational efficiency** through comprehensive **dashboard** analytics. 
+- Streamlined **state management** and **data fetching**, improving overall application performance and user experience. 
+- Improved **backend performance** and **reduced database load** through effective **caching** strategies.
 
 ## Frontend - 
-GITHUB - [EcoMart - Frontend](https://github.com/Prafful33Tak/ecomart-frontend)
-EcoMart App - [Deployed link](https://ecomart-frontend.vercel.app/)
+- GITHUB - [EcoMart - Frontend](https://github.com/Prafful33Tak/ecomart-frontend)
+- EcoMart App - [Deployed link](https://ecomart-frontend.vercel.app/)
 
 ## EcoMart - App Images
 ![EcoMart-Login](https://github.com/Prafful33Tak/ecomart-backend/assets/88709400/23c23b36-5b93-40b8-98ae-13235823d5cc)
